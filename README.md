@@ -1,4 +1,4 @@
 
 # hello-world
 
-#Hey am new to Git hub. Passionate abut Data Science.
+#Hey Iam new to Git hub. Passionate about Data Science.
